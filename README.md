@@ -6,6 +6,6 @@ Problems I had with this project were that:
  - People are much less likely to click on content, so the data were heavily imbalanced. And I mean HEAVILY.
 
 
-## Aknowledgements
+## Acknowledgements
 Thank you to David S. Batista for his brilliant work on GridSearchCV for multiple models. Find more info [here](http://www.davidsbatista.net/blog/2018/02/23/model_optimization/)
 
